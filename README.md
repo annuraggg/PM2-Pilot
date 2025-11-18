@@ -1,10 +1,10 @@
-# PM2 Dashboard
+# PM2 Pilot
 
 Authored and maintained by [annuraggg](https://github.com/annuraggg).
 
 ## Overview
 
-PM2 Dashboard is an open-source web interface for monitoring and managing Node.js processes running under PM2. Designed to provide real-time insights, control, and visibility into your application ecosystem, PM2 Dashboard makes it easy to track performance, view logs, and manage processes from a modern browser-based UI.
+PM2 Pilot is an open-source web interface for monitoring and managing Node.js processes running under PM2. Designed to provide real-time insights, control, and visibility into your application ecosystem, PM2 Pilot makes it easy to track performance, view logs, and manage processes from a modern browser-based UI.
 
 ## Features
 
@@ -16,17 +16,17 @@ PM2 Dashboard is an open-source web interface for monitoring and managing Node.j
 
 ## Technical Details
 
-Built with React and TypeScript, PM2 Dashboard connects to PM2 via a backend API to fetch process data and perform control operations. The frontend features a clean, modular architecture for easy extension and maintenance.
+Built with React and TypeScript, PM2 Pilot connects to PM2 via a backend API to fetch process data and perform control operations. The frontend features a clean, modular architecture for easy extension and maintenance.
 
 ## Getting Started
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/annuraggg/pm2-dashboard.git
+   git clone https://github.com/annuraggg/PM2-Pilot.git
    ```
 2. **Install dependencies**
    ```bash
-   cd pm2-dashboard
+   cd PM2-Pilot
    npm install
    ```
 3. **Start the development server**
